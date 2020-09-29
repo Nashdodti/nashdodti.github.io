@@ -12,9 +12,6 @@ Feature-Policy: accelerometer ‘none’; camera ‘none’; geolocation ‘none
 /img/*
 Cache-Control: public, max-age=604800, immutable
 
-/*.pdf
-Cache-Control: public, max-age=604800, immutable
-
 /*.ico
 Cache-Control: public, max-age=604800, immutable
 
@@ -22,9 +19,6 @@ Cache-Control: public, max-age=604800, immutable
 Cache-Control: public, max-age=604800, immutable
 
 /*.jpg
-Cache-Control: public, max-age=604800, immutable
-
-/*.jpeg
 Cache-Control: public, max-age=604800, immutable
 
 /*.png
