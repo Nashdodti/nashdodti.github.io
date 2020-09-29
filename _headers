@@ -15,9 +15,6 @@ Cache-Control: public, max-age=604800, immutable
 /*.ico
 Cache-Control: public, max-age=604800, immutable
 
-/*.flv
-Cache-Control: public, max-age=604800, immutable
-
 /*.jpg
 Cache-Control: public, max-age=604800, immutable
 
@@ -28,9 +25,6 @@ Cache-Control: public, max-age=604800, immutable
 Cache-Control: public, max-age=604800, immutable
 
 /*.js
-Cache-Control: public, max-age=604800, immutable
-
-/*sw.js
 Cache-Control: public, max-age=604800, immutable
 
 /*.html
